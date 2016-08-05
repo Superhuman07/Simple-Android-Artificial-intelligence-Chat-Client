@@ -3,9 +3,6 @@ package hk.ust.cse.comp107x.chatclient;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by muppala on 19/5/15.
- */
 
 public class Message {
     private String fromName, message;
