@@ -6,11 +6,7 @@ import java.io.InputStream;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-/**
- * Created by bradleybossard on 1/24/15.
- * 
- * This class extracts a zip file to a folder.
- */
+
 public class ZipFileExtraction {
     public void unZipIt(InputStream zipFile, String outputFolder) {
         try {
