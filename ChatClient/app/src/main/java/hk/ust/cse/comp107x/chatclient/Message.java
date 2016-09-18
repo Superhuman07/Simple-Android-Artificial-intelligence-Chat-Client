@@ -3,7 +3,7 @@ package hk.ust.cse.comp107x.chatclient;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
+// Message class for the user to know the name, date and the message
 public class Message {
     private String fromName, message;
     private boolean fromMe;
